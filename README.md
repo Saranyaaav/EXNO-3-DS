@@ -1,6 +1,6 @@
 ## EXNO-3-DS
-# Name:Saranya V
-# Reg.no:212223040188
+# Name: Saranya V
+# Reg.no: 212223040188
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
